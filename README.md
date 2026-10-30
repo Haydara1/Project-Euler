@@ -6,7 +6,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-25%2F1016-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-28%2F1016-blue)
 ![Language](https://img.shields.io/badge/Language-C%23-purple)
 
 ## Approach
