@@ -6,7 +6,7 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-28%2F1016-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-28%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%23-purple)
 
 ## Approach
@@ -27,3 +27,6 @@ Some of the concepts explored include:
 - **Language:** C#
 - **Platform:** .NET & rider.
 - **Version Control:** Git
+
+### Side note:
+Project Euler has over a thousand problems to solve, but only allows solutions to the problems 1 to 100 to be published.
