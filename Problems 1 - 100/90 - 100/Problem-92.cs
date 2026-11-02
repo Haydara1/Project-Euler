@@ -67,4 +67,4 @@ for (long i = 568; i < bound; i++)
 
 Console.WriteLine(chainNum);
 
-// Answer: 
+// Answer: 8581146
