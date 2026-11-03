@@ -30,4 +30,5 @@ Some of the concepts explored include:
 
 ### Side note:
 Project Euler has over a thousand problems to solve, but only allows solutions to the problems 1 to 100 to be published.
+
 You can add me by adding my friend key: 2324324_n0Qn4PvSSUbiSOOy1h2NKlcUgkQAe6uw
