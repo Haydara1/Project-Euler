@@ -31,3 +31,5 @@ for (long n = 1; ; n++)
         groups[key] = list = new List<long>();
     list.Add(cube);
 }
+
+// Answer: 127035954683
