@@ -6,10 +6,10 @@ The goal of this repository is to improve my problem-solving skills, strengthen 
 
 ## Progress
 
-![Problems Solved](https://img.shields.io/badge/Solved-68%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-75%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%23-purple)
 
-- Current level: 2 (square).
+- Current level: 3.
 - Current rank: Tetrahedron.
 
 ## Approach
